@@ -46,7 +46,11 @@ Matplotlib
 
 
 
+## 📫 Connect With Me
 
+LinkedIn: linkedin.com/in/aman-verma-0999b3197
+
+Email: amanverma1244@gmail.com
 
 
 
